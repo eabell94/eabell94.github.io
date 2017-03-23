@@ -5,9 +5,9 @@ My name is Ethan Bell and I am an undergraduate student at the University of Cal
 
 * Development of Technology
 * Social Trends and Behavior relating to the popularity of tech brands and features
-* Sports
-* Business
-* Finance
+* Sports, specifically the analysis of individual players, their efficiency, and impactfulness
+* Business, specifically visualization and prediction of profit trajectory
+* Finance, consultation on and the analysis and optimization of personal finances and business expenses 
 * Population behavior in metropolitan areas
 * Any subject relating to my native state of California
 * Demographic shifts and population densities within the city of Los Angeles
