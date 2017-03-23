@@ -8,7 +8,7 @@ My name is Ethan Bell and I am a 5th year undergraduate student majoring in Appl
 * Finance
 * Population behavior in metropolitan areas
 * Any subject relating to my native state of California
-* Demographic shifts and population densities within the city of Los Angeles.
+* Demographic shifts and population densities within the city of Los Angeles
 
 * * *
 ## Coursework
