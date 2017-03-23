@@ -13,7 +13,7 @@ My name is Ethan Bell and I am an undergraduate student at the University of Cal
 * Demographic shifts and population densities within the city of Los Angeles
 
 * * *
-## Coursework
+## Coursework Completed
 
 #### Statistics
 * STA 108 - Regression Analysis
