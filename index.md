@@ -36,9 +36,11 @@ My name is Ethan Bell and I am a 5th year undergraduate student majoring in Appl
 
 [UFOs and Disasters Project](https://eabell94.github.io/EAB%2BSecond%2BAnalysis.html)
 
-<b>Description:</b> In this group project the object was to answer a series of questions regarding a UFO sightings data set and a natural disasters data set, both focused on the United States. My questions focused on identifying potential correlations between state counties that had either the most reported disasters, the most reported UFO sightings, or the county with the longest declared disaster.
+<b>Description:</b> The objective was to answer a series of questions regarding a UFO sightings data set and a natural disasters data set, both focused on the United States. My portion of questions focused on identifying the most reported UFO sightings and top disasters; and potential correlations between state counties that had either the most reported disasters; the most reported UFO sightings; or the county with the longest declared disaster.
 
 <b>Project completed in collaboration with:</b> [Nicholas Alonzo](https://nicholas-alonzo.github.io/), [Zora Wang](https://zora2028.github.io/) and [Madeline Ye](https://mmadet.github.io/)
+
+[Repository](https://nicholas-alonzo.github.io/Projects/UCD%20Projects/Data%20and%20Web%20Technologies/datawebtech.html)
 * * *
 [Fruits and Vegetables: .CSV and JSON Familiarization](https://eabell94.github.io/assignment4.html)
 
