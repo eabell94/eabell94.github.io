@@ -33,8 +33,12 @@ My name is Ethan Bell and I am a 5th year undergraduate student majoring in Appl
 * * *
 #### 141B Statistical Projects
 
-[Project 1](link1)
+[UFOs and Disasters Project](https://eabell94.github.io/EAB%2BSecond%2BAnalysis.html)
 
-[Project 2](link2)
+<b>Description:</b> In this group project the object was to answer a series of questions regarding a UFO sightings data set and a natural disasters data set, both focused on the United States. My questions focused on identifying potential correlations between state counties that had either the most reported disasters, the most reported UFO sightings, or the county with the longest declared disaster.
+
+[Fruits and Vegetables: .CSV and JSON Familiarization](https://eabell94.github.io/assignment4.html)
+
+<b>Description:</b> In this individual assignment the purpose was to gain experience querying a website API to acquire data on a specified search query in a JSON format and perform an analysis of it.
 
 [Project 3](link3)
