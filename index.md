@@ -27,7 +27,7 @@ My name is Ethan Bell and I am an undergraduate student at the University of Cal
 
 #### Economics
 * ARE 100A - Intermediate Microeconomics
-* ARE 100B - Intermediate Macro Economics
+* ARE 100B - Intermediate Macroeconomics
 * ARE 106 - Econometrics
 * ARE 142 - Personal Finance
 * ARE 155 - Operation Resources and Management Science
